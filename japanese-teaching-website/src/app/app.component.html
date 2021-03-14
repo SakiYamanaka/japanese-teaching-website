@@ -1,13 +1,76 @@
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" routerLink="/">Study with Saki</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li><a routerLink="/">Home</a></li>
-      <li><a routerLink="second-component">Second</a></li>
-    </ul>
-  </div>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark mb-4">
+  <ul class="navbar-nav">
+    <a class="navbar-brand" routerLink="/">Study with Saki</a>
+    <li class="nav-item active">
+      <a class="nav-link" routerLink="/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="second-component">Second</a>
+    </li>
+  </ul>
 </nav>
 
 <router-outlet></router-outlet>
+
+<footer class="bg-dark text-center text-white mt-4">
+  <div class="container p-4">
+    <!-- Section: Social media -->
+    <section class="mb-4">
+      <a class="btn btn-outline-light btn-circle m-1" role="button">
+        <fa-icon [icon]="faFacebook"></fa-icon>
+      </a>
+      <a class="btn btn-outline-light btn-circle m-1" role="button">
+        <fa-icon [icon]="faTwitter"></fa-icon>
+      </a>
+      <a class="btn btn-outline-light btn-circle m-1" role="button">
+        <fa-icon [icon]="faGoogle"></fa-icon>
+      </a>
+      <a class="btn btn-outline-light btn-circle m-1" role="button">
+        <fa-icon [icon]="faInstagram"></fa-icon>
+      </a>
+      <a class="btn btn-outline-light btn-circle m-1" role="button">
+        <fa-icon [icon]="faLinkedin"></fa-icon>
+      </a>
+      <a class="btn btn-outline-light btn-circle m-1" role="button">
+        <fa-icon [icon]="faGithub"></fa-icon>
+      </a>
+    </section>
+
+    <!-- Section: Form -->
+    <section class="">
+      <form action="">
+        <div class="row d-flex justify-content-center">
+          <div class="col-auto">
+            <p class="pt-2">
+              <strong>Sign up for our newsletter</strong>
+            </p>
+          </div>
+          <div class="col-md-5 col-12">
+            <div class="form-outline form-white mb-4">
+              <input type="email" class="form-control" placeholder="Email Address" />
+            </div>
+          </div>
+          <div class="col-auto">
+            <button type="submit" class="btn btn-outline-light mb-4">
+              Subscribe
+            </button>
+          </div>
+        </div>
+      </form>
+    </section>
+
+    <!-- Section: Text -->
+    <section class="mb-4">
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
+        repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
+        eum harum corrupti dicta, aliquam sequi voluptate quas.
+      </p>
+    </section>
+  </div>
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    &copy; 2021 Saki Yamanaka
+  </div>
+</footer>
