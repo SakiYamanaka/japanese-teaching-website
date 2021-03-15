@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-2 col-md-12 col-sm-12">
+            <h5>Filter by Lesson</h5>
+            <div *ngFor="let item of [].constructor(23); index as i">
+                <input type="checkbox" id="lesson{{i+1}}checkbox"> Lesson {{i + 1}}
+            </div>
+        </div>
+        <div class="col-lg-10 col-md-12 col-sm-12">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">Kana</th>
+                        <th scope="col">Kanji</th>
+                        <th scope="col">Meaning</th>
+                        <th scope="col">Lesson</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of displayedGenkiVocab">
+                        <td>{{item.kana}}</td>
+                        <td><a href="https://jisho.org/search/{{item.kanji}}">{{item.kanji}}</a></td>
+                        <td>{{item.meaning}}</td>
+                        <td>{{item.lesson}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
