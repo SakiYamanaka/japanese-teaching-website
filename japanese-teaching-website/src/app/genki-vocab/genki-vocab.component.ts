@@ -1,7 +1,6 @@
-import { Component } from '@angular/core';
-import { faAngleDown, faAngleUp } from '@fortawesome/free-solid-svg-icons';
+import { Component, OnInit } from '@angular/core';
+import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import { genkiVocab } from './genki-vocab';
-
 
 @Component({
   selector: 'genki-vocab-component',
@@ -9,12 +8,21 @@ import { genkiVocab } from './genki-vocab';
 })
 
 export class GenkiVocabComponent {
-  faAngleDown = faAngleDown;
-  faAngleUp = faAngleUp;
+  allGenkiVocab = genkiVocab;
   displayedGenkiVocab = genkiVocab;
-  isLessonFilterDisplayed = false;
+  faSearch = faSearch;
 
-  setIsLessonFilterDisplayed() {
-    this.isLessonFilterDisplayed = !this.isLessonFilterDisplayed;
+  applyFilter() {
+    let filterValue = (<HTMLInputElement>document.getElementById('filtertextbox')).value;
+    if (filterValue === '') {
+      this.displayedGenkiVocab = this.allGenkiVocab;
+    } else {
+      this.displayedGenkiVocab = this.allGenkiVocab.filter(item => {
+        return item.kana.includes(filterValue)
+          || item.meaning.includes(filterValue)
+          || item.kanji.includes(filterValue)
+          || item.lesson.toString() === filterValue
+      });
+    }
   }
 }

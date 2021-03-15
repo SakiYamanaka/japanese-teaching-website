@@ -1,18 +1,14 @@
 <div class="container">
     <div class="row">
-        <div class="col-lg-2 col-md-12 col-sm-12">
-            <div class="row">
-                <h5>Filter by Lesson </h5>
-                <fa-icon *ngIf="!isLessonFilterDisplayed" [icon]="faAngleDown" class="ml-1" (click)=setIsLessonFilterDisplayed()></fa-icon>
-                <fa-icon *ngIf="isLessonFilterDisplayed" [icon]="faAngleUp" class="ml-1" (click)=setIsLessonFilterDisplayed()></fa-icon>
-            </div>
-            <div *ngIf=isLessonFilterDisplayed>
-                <div *ngFor="let item of [].constructor(23); index as i" class="m-0">
-                    <input type="checkbox" id="lesson{{i+1}}checkbox"> Lesson {{i + 1}}
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="container">
+                <div class="row justify-content-end mb-1">
+                    <input type="text" placeholder="Filter..." id="filtertextbox" (keyup.enter)=applyFilter() />
+                    <button class="btn btn-sm btn-outline-dark">
+                        <fa-icon [icon]=faSearch (click)=applyFilter()></fa-icon>
+                    </button>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-10 col-md-12 col-sm-12">
             <table class="table table-striped">
                 <thead>
                     <tr>
