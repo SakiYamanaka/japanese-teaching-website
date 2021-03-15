@@ -1,9 +1,15 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-2 col-md-12 col-sm-12">
-            <h5>Filter by Lesson</h5>
-            <div *ngFor="let item of [].constructor(23); index as i">
-                <input type="checkbox" id="lesson{{i+1}}checkbox"> Lesson {{i + 1}}
+            <div class="row">
+                <h5>Filter by Lesson </h5>
+                <fa-icon *ngIf="!isLessonFilterDisplayed" [icon]="faAngleDown" class="ml-1" (click)=setIsLessonFilterDisplayed()></fa-icon>
+                <fa-icon *ngIf="isLessonFilterDisplayed" [icon]="faAngleUp" class="ml-1" (click)=setIsLessonFilterDisplayed()></fa-icon>
+            </div>
+            <div *ngIf=isLessonFilterDisplayed>
+                <div *ngFor="let item of [].constructor(23); index as i" class="m-0">
+                    <input type="checkbox" id="lesson{{i+1}}checkbox"> Lesson {{i + 1}}
+                </div>
             </div>
         </div>
         <div class="col-lg-10 col-md-12 col-sm-12">
