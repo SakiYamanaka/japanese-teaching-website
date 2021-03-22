@@ -1,13 +1,13 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
-import { genkiVocab } from './genki-vocab';
+import { genkiVocab } from '../genki-vocab';
 
 @Component({
-  selector: 'genki-vocab-component',
-  templateUrl: './genki-vocab.component.html',
+  selector: 'genki-vocab-table-component',
+  templateUrl: './genki-vocab-table.component.html',
 })
 
-export class GenkiVocabComponent {
+export class GenkiVocabTableComponent {
   allGenkiVocab = genkiVocab;
   displayedGenkiVocab = genkiVocab;
   faSearch = faSearch;
