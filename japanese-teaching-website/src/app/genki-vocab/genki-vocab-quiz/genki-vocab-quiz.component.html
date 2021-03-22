@@ -1,23 +1,25 @@
 <div class="container">
     <div class="row justify-content-center">
-        <div class="card bg-light mb-3 col-6">
-            <!-- <div class="card-header">
-            Featured
-        </div> -->
+        <div class="card bg-light">
+            <div class="card-header">
+                <h2 class="card-title">{{genkiVocab[0].meaning}}</h2>
+            </div>
             <div class="card-body text-dark">
-                <h2 class="card-title ">{{genkiVocab[0].meaning}}</h2>
                 <p class="card-text">Type the <strong>Japanese</strong> for the <strong>English</strong> above and press
                     Enter:</p>
-                <div class="row">
-                    <input type="text" autofocus placeholder="かな..." id="submitanswertextbox" (keyup.enter)=submitAnswer() />
-                    <button class="btn btn-outline-dark">
-                        <fa-icon [icon]=faAngleRight (click)=submitAnswer()></fa-icon>
-                    </button>
+                <div class="container">
+                    <div class="row">
+                        <input type="text" autofocus placeholder="かな..." id="submitanswertextbox"
+                            (keyup.enter)=submitAnswer() />
+                        <button class="btn btn-outline-dark">
+                            <fa-icon [icon]=faAngleRight (click)=submitAnswer()></fa-icon>
+                        </button>
+                    </div>
                 </div>
             </div>
-            <!-- <div class="card-footer text-muted">
-            2 days ago
-        </div> -->
+            <div class="card-footer text-muted">
+                Lesson {{genkiVocab[0].lesson}}
+            </div>
         </div>
     </div>
 </div>
