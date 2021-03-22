@@ -1,0 +1,684 @@
+work; job	しごと
+(medical) doctor	いしゃ
+office worker	かいしゃいん
+high school student	こうこうせい
+housewife	しゅふ
+graduate student	だいがくいんせい
+university student	だいがくせい
+lawyer	べんごし
+mother	おかあさん
+father	おとうさん
+older sister (long)	おねえさん
+older brother (long)	おにいさん
+younger sister	いもうと
+younger brother	おとうと
+America	アメリカ
+Britain	イギリス
+Australia	オーストラリア
+Korea	かんこく
+Sweden	スウェーデン
+China	ちゅうごく
+science	かがく
+Asian studies	アジアけんきゅう
+economics	けいざい
+international relations	こくさいかんけい
+Computer	コンピューター
+anthropology	じんるいがく
+politics	せいじ
+business	ビジネス
+literature	ぶんがく
+history	れきし
+that (+ noun away from speaker and listener)	あの
+now	いま
+English (language)	えいご
+yes (casual)	ええ
+student (esp. a university student)	がくせい
+language	ご
+High school	こうこう
+afternoon (p.m.)	ごご
+a.m.	ごぜん
+... years old	さい
+Mr./Ms. ...	さん
+o'clock	じ
+a person from	じん
+teacher, doctor, professor	せんせい
+speciality / major	せんこう
+That's right	そうです
+university	だいがく
+telephone	でんわ
+friend	ともだち
+name	なまえ
+what	なに
+Japan	にほん
+pupil in ... year	ねんせい
+yes	はい
+half	はん
+number	ばんごう
+overseas student	りゅうがくせい
+I	わたし
+this one (close to the speaker)	これ
+that (close to the listener)	それ
+that over there (away from speaker and listener)	あれ
+which (of three or more)	どれ
+this (+ noun) (close to the speaker)	この
+that (+ noun) (close to the listener)	その
+that (+ noun away from speaker and listener)	あの
+which (+ noun)	どの
+there (place physically distant from both speaker and listener)	あそこ
+where	どこ
+who	だれ
+delicious	おいしい
+fish	さかな
+pork cutlet	とんかつ
+meat; flesh	にく
+menu	メニュー
+vegetable	やさい
+pencil	えんぴつ
+umbrella	かさ
+handbag	かばん
+shoes	くつ
+purse; wallet	さいふ
+jeans	ジーンズ
+dictionary (more common)	じしょ
+bicycle	じてんしゃ
+newspaper	しんぶん
+tape	テープ
+watch; clock	とけい
+sweat shirt	トレーナー
+notebook	ノート
+pen	ペン
+hat	ぼうし
+book	ほん
+lavatory	おてあらい
+coffee lounge	きっさてん
+bank	ぎんこう
+library	としょかん
+post office	ゆうびんきょく
+how much?	いくら
+Yen	えん
+expensive	たかい
+Welcome (to our store)	いらっしゃいませ
+..., please. (not ください)	おねがいします
+please give me	ください
+then...; if that is the case,...	じゃあ
+please / here it is	どうぞ
+thanks (colloquial shortening)	どうも
+movie	えいが
+music	おんがく
+journal; magazine	ざっし
+(romantic) date	デート
+tennis	テニス
+TV	テレビ
+video	ビデオ
+breakfast	あさごはん
+rice wine; alcohol	おさけ
+tea (usu. green)	おちゃ
+coffee	コーヒー
+evening meal (longer)	ばんごはん
+hamburger	ハンバーガー
+lunch	ひるごはん
+water (esp. cool, fresh water, e.g. drinking water)	みず
+house; household	いえ
+house; home	うち
+language lab	エルエル
+school	がっこう
+morning	あさ
+tomorrow	あした
+when	いつ
+today	きょう
+at about	ごろ
+this evening	こんばん
+weekend	しゅうまつ
+Saturday	どようび
+Sunday	にちようび
+every day	まいにち
+every night	まいばん
+sports	スポーツ
+to go (に)	いく
+to return (destination に/へ)	かえる
+to listen; to hear (~を)	きく
+to drink (~を)	のむ
+to speak (language を/で)	はなす
+to read (~を)	よむ
+1: to get up 2: to wake up	おきる
+to eat (~を)	たべる
+to sleep	ねる
+to see; to look at	みる
+to come (destination に/へ)	くる
+to do (~を)	する
+to study (~を)	べんきょうする
+good	いい
+fast; early	はやい
+not much (with negative sentence)	あまり
+not at all; absolutely (not)	ぜんぜん
+usually; mostly	たいてい
+a little	ちょっと
+sometimes	ときどき
+often; much	よく
+That's right; Let me see	そうですね
+but	でも
+How about...?; How is...?	どうですか
+part-time job	アルバイト
+shopping	かいもの
+class	クラス
+you	あなた
+dog	いぬ
+souvenir	おみやげ
+child	こども
+rice; meal	ごはん
+photograph	しゃしん
+desk	つくえ
+letter	てがみ
+cat	ねこ
+bread	パン
+person	ひと
+temple	おてら
+park	こうえん
+super market	スーパー
+department store	デパート
+bus stop	バスてい
+hospital	びょういん
+hotel	ホテル
+bookstore	ほんや
+town	まち
+restaurant	レストラン
+yesterday	きのう
+stamp (postage)	きって
+hour	じかん
+last week	せんしゅう
+when...; at the time of (~の)	とき
+Monday	げつようび
+Tuesday	かようび
+Wednesday	すいようび
+Thursday	もくようび
+Friday	きんようび
+chair	いす
+to meet (person に)	あう
+there is... (~が)	ある
+to buy (~を)	かう
+to write (person に thing を)	かく
+to take (pictures) (~を)	とる
+to wait (~を)	まつ
+to understand (が)	わかる
+a person is in...; stays at... (place に); to exist	いる
+approximately; to (about) the extent that	ぐらい
+sorry	ごめんなさい
+therefore	だから
+many	たくさん
+together with (a person)　(particle)	と
+for what reason; why?	どうして
+alone	ひとりで
+hello (on the phone)	もしもし
+right	みぎ
+left (hand side)	ひだり
+front	まえ
+back; behind	うしろ
+inside	なか
+on; above	うえ
+under	した
+near; close; beside (1)	そば
+next to; neighbor	となり
+between; space	あいだ
+there (place relatively near listener)	そこ
+here (close to speaker)	ここ
+near, vicinity (2)	ちかく
+sea	うみ
+stamp (postage)	きって
+ticket	きっぷ
+homework	しゅくだい
+food	たべもの
+birthday	たんじょうび
+weather	てんき
+drink; beverage	のみもの
+postcard	はがき
+aeroplane	ひこうき
+room	へや
+I (male)	ぼく
+rest, vacation	やすみ
+travel	りょこう
+surfing	サーフィン
+test	テスト
+bus	バス
+new	あたらしい
+hot	あつい
+busy, hectic; hurried	いそがしい
+big	おおきい
+interesting, amusing	おもしろい
+scary	こわい
+cold (e.g. weather)	さむい
+enjoyable	たのしい
+small	ちいさい
+insignificant,boring	つまらない
+old (things-not for people)	 ふるい
+difficult	むずかしい
+easy (problem); kind (person)	やさしい
+cheap	やすい
+dislike	きらい
+pretty	きれい
+energetic; healthy	げんき
+quiet	しずか
+like	すき
+hate	だいきらい
+very likeable	だいすき
+bustling; busy; lively; crowded	 にぎやか
+not busy; to have a lot of free time	ひま
+good	いい
+great-looking	かっこいい
+to swim	およぐ
+to listen; to hear (~を)	きく
+to get on,to ride in,to board (~に)	のる
+to do	やる
+to depart (from home)	でかける
+extremely	すごく
+very	とても
+together (with)	いっしょに
+and then; after that	それから
+all right; it's okay	だいじょうぶ
+till (a time)	まで
+what kind of...	どんな
+counter for flat objects	まい
+money	おかね
+old woman; grandmother	おばあさん
+bath	おふろ
+kanji; chinese character	かんじ
+textbook	きょうかしょ
+this week	こんしゅう
+municipal hospital	しみんびょういん
+next; following; subsequent	つぎ
+video game	テレビゲーム
+electricity	でんき
+train	でんしゃ
+baggage; luggage	にもつ
+page	ページ
+window	まど
+night	よる
+next week	らいしゅう
+next year	らいねん
+to play	あそぶ
+to hurry	いそぐ
+to take a bath	おふろにはいる
+to return (things) (person に thing を)	かえす
+to erase, to delete; to turn off (power)	けす
+to die	しぬ
+to sit (seat に)	すわる
+to stand	たつ
+to smoke (a cigarette)	たばこをすう
+to use	つかう
+to help	てつだう
+to enter (~に)	はいる
+to carry; to hold	もつ
+to be absent from; to rest	やすむ
+to open (something)	あける
+to teach (person に thing を)	おしえる
+to get off; to descend (e.g. a mountain)	おりる
+to borrow	かりる
+to close	しめる
+to turn on	つける
+to make a phone call	でんわをかける
+to forget	わすれる
+to bring (a person)	つれてくる
+to bring (a thing)	もってくる
+to take a shower	シャワーをあびる 
+tough (situation); difficult	たいへん
+later on; afterwards	あとで
+(do something) late	おそく
+from...	から
+That wouldn't be necessary	けっこうです
+right away; immediately	すぐ
+really?	ほんとうですか
+slowly	ゆっくり
+older sister (short)	あね
+apartment	アパート
+younger sister	いもうと
+song	うた
+younger brother	おとうと
+man (long)	おとこのひと
+older brother (long)	おにいさん
+older sister (long)	おねえさん
+woman (long)	おんなのひと
+company	かいしゃ
+family	かぞく
+hair	かみ
+brothers and sisters	きょうだい
+country	くに
+car	くるま
+convenience store	コンビニ
+cafeteria; dining room	しょくどう
+(my) father	ちち
+T-shirt	Tシャツ
+eye	め
+glasses	めがね
+bright; smart; clever	あたまがいい
+great-looking	かっこいい
+cute	かわいい
+tall (height)	せがたかい
+short (height)	せがひくい
+long, lengthy (time)	ながい
+fast; early	はやい
+short (length)	みじかい
+kind	しんせつ
+convenient	べんり
+to sing	うたう
+to put on (one's head)	かぶる
+to know	しる
+to live (~に)	すむ
+to put on (items below you waist)	はく
+to gain weight	ふとる
+to put on (glasses)	かける
+to put on (clothes above your waist)	きる
+to work for (~につとめています)	つとめる
+to lose weight	やせる
+to get married	けっこんする
+to know	しっています
+I don't know.	しりません
+to be on the heavy side	ふとっています
+to be thin	やせています
+but	が
+nothing (with neg. verbs)	なにも
+counter for people	にん
+one person	ひとり
+two persons	ふたり
+(not) particularly,nothing	べつに
+of course	もちろん
+if you like	よかったら
+day after tomorrow	あさって
+rain	あめ
+office worker	かいしゃいん
+camera	カメラ
+karaoke	カラオケ
+air	くうき
+this morning	けさ
+this month	こんげつ
+work; job	しごと
+university student	だいがくせい
+to make a phone call	でんわする
+weather forecast	てんきよほう
+place	ところ
+Tomato	トマト
+summer	なつ
+something	なにか
+party	パーティー
+barbecue	バーベキュー
+chopsticks	はし
+winter	ふゆ
+homestay; living with a local family	ホームステイ
+every week	まいしゅう
+next month	らいげつ
+chalkboard	こくばん
+skilled; good at	じょうず
+clumsy; poor at	へた
+famous	ゆうめい
+uh-uh; no	ううん
+uh-huh; yeah	うん
+toast (drink)	かんぱい
+that's too bad	ざんねんですね
+all (of the people) together	みんなで
+always	いつも
+about...; concerning...	〜について
+to throw away	すてる
+it rains	あめがふる
+to wash	あらう
+to say	いう
+a person is in...; stays at... (place に); to exist	いる
+to be late	おそくなる
+to think	おもう
+to put on (clothes above your waist)	きる
+to make	つくる
+take (something somewhere)	もっていく
+to stare (at...)	じろじろみる
+to start (doing something)	はじめる
+to drive	うんてんする
+to do laundry	せんたくする
+to clean, to sweep	そうじする
+to cook	りょうりする
+good child	いいこ
+colour	いろ
+(Japanese) box lunch	おべんとう
+Kabuki; traditional Japanese theatrical art	かぶき
+guitar	ギター
+medicine	くすり
+to take medicine	くすりをのむ
+concert	コンサート
+near future; next time	こんど
+essay; composition	さくぶん
+examination	しけん
+ski; skiing	スキー
+last month	せんげつ
+word (usually a single character)	たんご
+piano	ピアノ
+illness; sickness	びょうき
+Pizza	ピザ
+blue	あおい
+red	あかい
+black	くろい
+lonely	さびしい
+white	しろい
+young	わかい
+mean-spirited	いじわる
+to dance	おどる
+(something) ends (が)	おわる
+to be popular	にんきがある
+(something) begins (が)	はじまる
+to play (a string instrument or piano)	ひく
+to get (from somebody) (person に thingを)	もらう
+to memorize	おぼえる
+(1) to appear; to attend (に) (2) to exit (を)	でる
+to do physical exercises	うんどうする
+to take a walk	さんぽする
+from...	から
+by the way	ところで
+by all means	ぜひ
+all	みんな
+already	もう
+one (item)	ひとつ
+two (items)	ふたつ
+three (items)	みっつ
+four (items)	よっつ
+five (items)	いつつ
+six (items)	むっつ
+seven (items)	ななつ
+eight (items)	やっつ
+nine (items)	ここのつ
+ten (items)	とお
+last year	きょねん
+Shinkansen; "Bullet Train"	しんかんせん
+fall (autumn)	あき
+station	えき
+rich person	おかねもち
+face	かお
+season	きせつ
+credit card	クレジットカード
+this year	ことし
+soccer	サッカー
+shirt	シャツ
+life; living	せいかつ
+world	せかい
+subway	ちかてつ
+gloves	てぶくろ
+barber's	とこや
+spring	はる
+pants; underpants	パンツ
+beauty parlor	びよういん
+flight	びん
+ship; boat	ふね
+baseball	やきゅう
+celebrity	ゆうめいじん
+reservation	よやく
+next semester	らいがっき
+apple	りんご
+cake	ケーキ
+milk	ぎゅうにゅう
+sushi	すし
+tempura	てんぷら
+warm	あたたかい
+slow; late	おそい
+cool (weather)	すずしい
+cold (thing/people)	つめたい
+sleepy	ねむい
+easy; simple	かんたん
+to take (amount of time / money)	かかる
+to stay (at a hotel, etc.)	とまる
+to become	なる
+to pay	はらう
+to decide	きめる
+to practice	れんしゅうする
+to travel	りょこうする
+on foot	あるいて
+best	いちばん
+these days	このごろ
+how; by what means	どうやって
+which; which direction	どちら
+how much; how long	どのぐらい
+(do something) early; fast	はやく
+spa; hot spring	おんせん
+snack; sweets	おかし
+New Year's	おしょうがつ
+boy	おとこのこ
+toy	おもちゃ
+girl	おんなのこ
+foreign country	がいこく
+singer	かしゅ
+camp	キャンプ
+this person (polite)	こちら
+this semester	こんがっき
+president of a company	しゃちょう
+lesson, class	じゅぎょう
+future	しょうらい
+drive (trip by car)	ドライブ
+beer	ビール
+art museum	びじゅつかん
+Host Family	ホストファミリー
+lake	みずうみ
+mountain	やま
+dream	ゆめ
+roommate	ルームメート
+festival	おまつり
+river	かわ
+shrine	じんじゃ
+fishing	つり
+writer	さっか
+journalist	ジャーナリスト
+police officer	けいさつかん
+actor/actress	はいゆう
+actress	じょゆう
+nurse	かんごし
+fire fighter	しょうぼうし
+cartoonist	まんがか
+astronaut	うちゅうひこうし
+baseball player	やきゅうせんしゅ
+president (i.e. of a country)	だいとうりょう
+to tell a lie	うそをつく
+to become hungry	おなかがすく
+to own (a pet)	かう
+to cut classes; to skip out; to be idle	サボる
+to take (a class); to get (a grade)	とる
+to learn	ならう
+to climb	のぼる
+to work	はたらく
+to get tired	つかれる
+to quit	やめる
+to have a fight; to quarrel	けんかする
+to introduce	しょうかいする
+to go on a diet	ダイエットする
+to be late (for an appointment)	ちこくする
+to study abroad	りゅうがくする
+after (an event)	あと
+coming from; place of origin	しゅっしん
+very	すごく
+and then; thus: and	そして
+it has been a long time	ひさしぶり
+okay; so-so	まあまあ
+more	もっと
+restroom	おてあらい
+leg; foot	あし
+meaning	いみ
+stomach	おなか
+cold (illness)	かぜ
+girlfriend; she, her	かのじょ
+boyfriend; he, him	かれ
+temperature (weather)	きおん
+cloudy weather	くもり
+match; game	しあい
+juice	ジュース
+grade (on a test, etc.)	せいせき
+cough (Noun)	せき
+throat	のど
+tooth	は
+flower	はな
+sunny weather	はれ
+clothes	ふく
+hangover	ふつかよい
+present	プレゼント
+homesickness	ホームシック
+thing (concrete object)	もの
+snow	ゆき
+minus	マイナス
+business to take care of; tasks	ようじ
+sweet; delicious	あまい
+hurt; painful	いたい
+there are many...	おおい
+narrow; not spacious	せまい
+inconvenient; to have a scheduling conflict	つごうがわるい
+bad	わるい
+nice	すてき
+to catch a cold	かぜをひく
+to be interested (in ...)	きょうみがある
+to lose (something)	なくす
+to become thirsty	のどがかわく
+to have a fever	ねつがある
+to cough	せきがでる
+to break up; to separate	わかれる
+to get nervous	きんちょうする
+to worry	しんぱいする
+to walk	あるく
+Get well soon.	おだいじに
+don't look well	げんきがない
+probably; maybe	たぶん
+as much as possible	できるだけ
+for two to three days	にさんにち
+for the first time	はじめて
+very soon; in a few moments/days	もうすぐ
+for example	たとえば
+question	しつもん
+self introduction.	じこしょうかい
+only	だけ
+(heavy) drinker	さけのみ
+to be broken	こわれる
+white	しろい
+colour	いろ
+station	えき
+pepper	こしょう
+rest, vacation	やすみ
+not yet; still	まだ
+rose	ばら
+key	かぎ
+strange / weird	へんな
+any	なんでも
+someone	だれか
+mind	こころ
+the end	おわり
+near future; next time	こんど
+healthy	ヘルシーな
+to get tired	つかれる
+slowly (onomatopoeic)	のろのろ
+１　unthinkable, no way　2　don't mention it	とんでもない
+kind	しんせつな
+noisy	うるさい
+famous	ゆうめいな
+dirty	きたない
+short (length)	みじかい
+heavy	おもい
+light (i.e. not heavy)	かるい
+unappetising	まずい
+bad; poor; evil	わるい
+sunny place	ひなた
+to be visible	みえる
+one breath	ひといき
+teacup	ゆのみ
+sound of heavy breathing; blowing on something	ふうふう
+recently; nowadays	さいきん
+to put; to place; to leave (behind)	おく
+ground; earth's surface	じめん
+to grip; to seize; to comprehend	つかむ
+to stop	とめる
+ingredients; material 	ざいりょう

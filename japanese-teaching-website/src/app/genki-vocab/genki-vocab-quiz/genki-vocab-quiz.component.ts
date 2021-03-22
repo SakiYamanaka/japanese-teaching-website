@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import { faAlignRight, faAngleDoubleRight, faAngleRight, faArrowCircleRight, faArrowRight, faLongArrowAltRight, faSearch } from '@fortawesome/free-solid-svg-icons';
 import { genkiVocab } from '../genki-vocab';
 
 @Component({
@@ -9,6 +9,7 @@ import { genkiVocab } from '../genki-vocab';
 
 export class GenkiVocabQuizComponent {
   genkiVocab = genkiVocab;
+  faAngleRight = faAngleRight;
 
   submitAnswer() {
     let answer = (<HTMLInputElement>document.getElementById('submitanswertextbox')).value;
